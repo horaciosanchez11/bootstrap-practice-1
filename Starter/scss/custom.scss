@@ -1,6 +1,9 @@
+html {
+    font-size:14px;
+}
+
 body {
     font-family: "Raleway", sans-serif;
-    background:darkolivegreen;
 }
 
 .navbar {
@@ -45,6 +48,12 @@ body {
     #book {
         font-size: 1.5rem;
         border-radius: 2rem;
+    }
+}
+
+#id {
+    img {
+        width: 275px;;
     }
 }
 
