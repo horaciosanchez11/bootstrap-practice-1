@@ -7845,6 +7845,9 @@ body {
 #id img {
   width: 275px; }
 
+#quotes i {
+  opacity: 0.4; }
+
 @media (max-width: 768px) {
   .navbar {
     background: #1f1f1f; }
